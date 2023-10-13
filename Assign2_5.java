@@ -1,6 +1,4 @@
-import java.util.Scanner;
 
-import javax.imageio.plugins.jpeg.JPEGHuffmanTable;
 import javax.swing.JOptionPane;
 
 public class Assign2_5 {
